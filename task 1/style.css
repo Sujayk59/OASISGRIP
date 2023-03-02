@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.One {
+    background-color: black;
+    color: white;
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+    /* padding-top: 20px; */
+    padding-bottom: 10px;
+}
+button {
+    height: 30px;
+    width: 120px;
+    background-color: beige;
+    border-radius: 31px;
+    cursor: pointer;
+}
+button:hover {
+    font-size: larger;
+}
+#Byte {
+    padding-bottom: 30px;
+    font-size: larger;
+}
+nav {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-right: 1350px;
+    font-size: 150px;
+    padding-top: 10px;
+    color: rgb(192,192,192);
+}
+nav:hover {
+    font-size: 170px;
+    cursor: pointer;
+}
+.Two {
+    height: vh;
+    background-color: white;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    margin: 30px 0 40px 0;
+}
+.tag {
+    background-color: rgb(255, 255, 255);
+    padding-top: 40px;
+    font-style: bold;
+    /* font-size: large; */
+}
+.line {
+    font-size: large;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+.search {
+    padding-left: 330px;
+}
+.virus {
+    height: 210px;
+    width: 160px;
+    padding-left: 195px;
+    padding-top: 10px;
+}
+.devices {
+    height: 200px;
+    width: 170px;
+    padding-left: 210px;
+    padding-top: 10px;
+}
+#User {
+    height: 200px;
+    width: 400px;
+    padding-top: 10px;
+}
+footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding-top: 16px;
+    height: 5.5vh;
+}
+h1 {
+    font-family: 'Playfair Display', serif;
+}
